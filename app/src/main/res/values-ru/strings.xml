@@ -92,7 +92,6 @@
     <string name="port_proxy">Порт прокси SOCKS5</string>
     <string name="service_mode_vpn">VPN</string>
     <string name="app_version">Версия</string>
-    <string name="oss_licenses">Лицензии с открытым исходным кодом</string>
     <string name="telegram">Канал обновлений в Telegram</string>
     <string name="github">Исходный код</string>
     <string name="project">Проект</string>
@@ -487,4 +486,23 @@
     <string name="acquire_wake_lock">Получить WakeLock</string>
     <string name="release_wake_lock">Освободить WakeLock</string>
     <string name="acquire_wake_lock_summary">Сохранять CPU включённым</string>
+    <string name="hysteria_disable_mtu_discovery">Отключить обнаружение путя MTU</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="sai_succeed">Успешно установлено</string>
+    <string name="sai_error_generic">Установка не удалась</string>
+    <string name="sai">Установщик раздельных APK</string>
+    <string name="flow">Алгоритм управления потоком</string>
+    <string name="sai_error_blocked">Установка была заблокирована %s</string>
+    <string name="sai_error_blocked_device">устройство</string>
+    <string name="sai_error_conflict">Невозможно установить приложение, потому что оно конфликтует с уже установленным приложением, имеющим то же имя пакета</string>
+    <string name="sai_error_incompatible">Приложение несовместимо с этим устройством</string>
+    <string name="sai_error_invalid">Недопустимые APK</string>
+    <string name="sai_error_storage">Недостаточно свободного места для установки приложения</string>
+    <string name="shizuku_unavailable">Shizuku недоступен</string>
+    <string name="udp_over_tcp">UDP поверх TCP</string>
+    <string name="udp_over_tcp_summary">Включение протокола SUoT требует поддержки со стороны сервера.</string>
+    <string name="without_brook_protocol">Без протокола Brook</string>
+    <string name="grpc_mode">Режим gRPC</string>
+    <string name="sai_error_aborted">Установка была отменена пользователем</string>
+    <string name="installer_provider">Провайдер установщика</string>
 </resources>
